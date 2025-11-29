@@ -16,16 +16,16 @@ let students = [
 
 let past_members = [
     { name: "Bingchuan Wei", grade: "Ph.D. Student", major: "Aerospace Engineering", group: "Navigation", img: "bingchuanwei.jpg" },
-    { name: "Zhiting Zhou", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Vision, Grasping and Simulation", img: "zhitingzhou.jpg" },
+    { name: "Zhiting Zhou", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Vision, Manipulation and Simulation", img: "zhitingzhou.jpg" },
     { name: "Langzhe Gu", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Navigation", img: "langzhegu.jpg" },
     { name: "Wang You", grade: "B.S. Student", major: "Computer Science and Technology", group: "Vision", img: "wangyou.jpg" },
     { name: "Yu Bai", grade: "B.S. Student", major: "Xingjian College - Automobile Engineering", group: "Navigation", img: "yubai.jpg" },
     { name: "Anqi Huang", grade: "B.S. Student", major: "Mechanical Engineering", group: "Navigation and Hardware", img: "anqihuang.jpg" },
-    { name: "Chengjiang Li", grade: "B.S. Student", major: "Automation", group: "Grasping", img: "chengjiangli.jpg" },
-    { name: "Bing'ao Chen", grade: "B.S. Student", major: "Xingjian College - Aerospace Engineering", group: "Grasping", img: "bingaochen.jpg" },
+    { name: "Chengjiang Li", grade: "B.S. Student", major: "Automation", group: "Manipulation", img: "chengjiangli.jpg" },
+    { name: "Bing'ao Chen", grade: "B.S. Student", major: "Xingjian College - Aerospace Engineering", group: "Manipulation", img: "bingaochen.jpg" },
     { name: "Yu'ang Yan", grade: "B.S. Student", major: "Mechanical Engineering", group: "Hardware", img: "yuangyan.jpg" },
     { name: "Sijia Xie", grade: "B.S. Student", major: "Mathematics and Applied Mathematics", group: "Vision", img: "sijiaxie.jpg" },
     { name: "Yimin Fang", grade: "B.S. Student", major: "Industrial Engineering", group: "Navigation", img: "yiminfang.jpg" },
-    { name: "Ziwei Zhao", grade: "B.S. Student", major: "Automation", group: "Grasping", img: "ziweizhao.jpg" },
+    { name: "Ziwei Zhao", grade: "B.S. Student", major: "Automation", group: "Manipulation", img: "ziweizhao.jpg" },
     { name: "Shiyu Zheng", grade: "B.S. Student", major: "Electrical Engineering & Its Automation", group: "Hardware", img: "shiyuzheng.jpg" }
 ];
