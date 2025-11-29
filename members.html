@@ -106,18 +106,18 @@
                 <h3>Members</h3>
                 <p>Members of our Team</p>
             </div><!-- end title -->
-
+            
+           
             <hr />
+            <h3 id="students">Students</h3>
+
+            <!-- Students list (rendered by JS) -->
+            <div id="students_list" class="students-container"></div>
+
+             <hr />
             <h3 id="instructors">Instructors</h3>
 
             <div class="row">
-                <div class="col-sm-6 clearfix">
-                    <img src="images/teampic/liliu.jpg" alt="" class="img-fluid img-rounded member_pic" style="width: 25%; float: left; margin-right: 20px; margin-bottom: 20px; border-radius: 20px;">
-                    <h4>Li Liu(Founding Instructor)</h4>
-                    <p><i>Ph.D. and Professor, Mechanical Engineering, Tsinghua University</i></p>
-                    
-                </div>
-
                 <div class="col-sm-6 clearfix">
                     <img src="images/teampic/ruichen.jpg" alt="" class="img-fluid img-rounded member_pic" style="width: 25%; float: left; margin-right: 20px; margin-bottom: 20px; border-radius: 20px;">
                     <h4>Rui Chen</h4>
@@ -126,6 +126,17 @@
                         <a href="https://callmeray.github.io/homepage/">Personal Homepage</a>
                     </ul>
                 </div>
+                
+                <div class="col-sm-6 clearfix">
+                    <img src="images/teampic/liliu.jpg" alt="" class="img-fluid img-rounded member_pic" style="width: 25%; float: left; margin-right: 20px; margin-bottom: 20px; border-radius: 20px;">
+                    <h4>Li Liu(Founding Instructor)</h4>
+                    <p><i>Ph.D. and Professor, Mechanical Engineering, Tsinghua University</i></p>
+                    
+                </div>
+
+                
+
+                
             </div><!-- end row -->
 
             <div class="row">
@@ -137,14 +148,18 @@
                         <a href="https://me.tsinghua.edu.cn/info/1023/1512.htm">Personal Homepage</a>
                     </ul>
                 </div>
+
+                <div class="col-sm-6 clearfix">
+                    <img src="images/teampic/jingxu.jpg" alt="" class="img-fluid img-rounded member_pic" style="width: 25%; float: left; margin-right: 20px; margin-bottom: 20px; border-radius: 20px;">
+                    <h4>Jing Xu</h4>
+                    <p><i>Tenured Professor and Ph.D. Supervisor</i></p>
+                    <ul>
+                        <a href="https://me.tsinghua.edu.cn/info/1100/3636.htm">Personal Homepage</a>
+                    </ul>
+                </div>
             </div><!-- end row -->
 
-            <hr />
-            <h3 id="students">Students</h3>
-
-            <!-- Students list (rendered by JS) -->
-            <div id="students_list" class="students-container"></div>
-
+            
             <hr />
             <h3 id="past_members">Past members</h3>
 
@@ -229,7 +244,7 @@
                 const ul = document.createElement('ul');
                 ul.style.overflow = 'hidden';
                 const li1 = document.createElement('li');
-                li1.textContent = `In ${member.group} Group`;
+                li1.textContent = `${member.group} Group`;
                 ul.appendChild(li1);
                 col.appendChild(ul);
 
