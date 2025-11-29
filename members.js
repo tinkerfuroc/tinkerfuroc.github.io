@@ -1,17 +1,17 @@
 let students = [
-    { name: "Cindy Wang(Team Leader)", grade: "B.S. Student", major: "Software Engineering", group: "Vision and Decision", img: "cindywang.jpg" },
-    { name: "Songchuan Lim(President)", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Hardware and Decision", img: "songchuanlim.jpg" },
-    { name: "Rui Fang", grade: "B.S. Student", major: "Computer Science and Technology", group: "Simulation", img: "ruifang.jpg" },
-    { name: "Yuchiao Huang", grade: "B.S. Student", major: "Automation", group: "Navigation", img: "yuchiaohuang.jpg" },
-    { name: "Yunfei Li", grade: "Master Student", major: "Software Engineering", group: "Vision", img: "yunfeili.png" },
-    { name: "Yiru Liu", grade: "B.S. Student", major: "Automation", group: "Manipulation", img: "yiruliu.jpeg" },
-    { name: "Xinyao Qin", grade: "Ph.D. Student", major: "Automation", group: "Manipulation", img: "xinyaoqin.jpg" },
-    { name: "Han Ren", grade: "B.S. Student", major: "Mechanical Engineering", group: "Simulation", img: "hanren.jpg" },
-    { name: "Yeqing Sun", grade: "B.S. Student", major: "Mechanical Engineering", group: "Manipulation and Hardware", img: "yeqingsun.jpg" },
-    { name: "Kejin Wang", grade: "B.S. Student", major: "Computer Science and Technology", group: "Manipulation", img: "kejinwang.jpg" },
-    { name: "Zixu Wang", grade: "B.S. Student", major: "Automation", group: "Manipulation and Vision", img: "zixuwang.jpg" },
-    { name: "Jiacheng Xie", grade: "B.S. Student", major: "Automation", group: "Speech", img: "jiachengxie.jpg" },
-    { name: "Mingkang Zhang", grade: "B.S. Student", major: "Weixian College", group: "Navigation", img: "mingkangzhang.jpg" }
+    { name: "Cindy Wang(Team Leader)", grade: "B.S. Student", major: "Software Engineering", group: "Head of Vision Group and Member of Decision", img: "cindywang.jpg" },
+    { name: "Songchuan Lim(President)", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Head of Hardware Group and Member of Decision", img: "songchuanlim.jpg" },
+    { name: "Xinyao Qin", grade: "Ph.D. Student", major: "Automation", group: "Member of Manipulation", img: "xinyaoqin.jpg" },
+    { name: "Mingkang Zhang", grade: "B.S. Student", major: "Weixian College", group: "Head of Navigation", img: "mingkangzhang.jpg" },
+    { name: "Jiacheng Xie", grade: "B.S. Student", major: "Automation", group: "Head of Audio", img: "jiachengxie.jpg" },
+    { name: "Kejin Wang", grade: "B.S. Student", major: "Computer Science and Technology", group: "Head of Manipulation", img: "kejinwang.jpg" },
+    { name: "Yunfei Li", grade: "Master Student", major: "Software Engineering", group: "Member of Vision", img: "yunfeili.png" },
+    { name: "Rui Fang", grade: "B.S. Student", major: "Computer Science and Technology", group: "Member of Simulation", img: "ruifang.jpg" },
+    { name: "Yeqing Sun", grade: "B.S. Student", major: "Mechanical Engineering", group: "Member of Manipulation and Hardware", img: "yeqingsun.jpg" },
+    { name: "Yiru Liu", grade: "B.S. Student", major: "Automation", group: "Member of Manipulation", img: "yiruliu.jpeg" },
+    { name: "Han Ren", grade: "B.S. Student", major: "Mechanical Engineering", group: "Member of Simulation", img: "hanren.jpg" },
+    { name: "Yuchiao Huang", grade: "B.S. Student", major: "Automation", group: "Member of Navigation", img: "yuchiaohuang.jpg" },  
+    { name: "Zixu Wang", grade: "B.S. Student", major: "Automation", group: "Member of Manipulation and Vision", img: "zixuwang.jpg" } 
 ];
 
 let past_members = [
