@@ -8,7 +8,7 @@ let students = [
     { name: "Rui Fang", grade: "B.S. Student", major: "Computer Science and Technology", group: "Head of Simulation", img: "ruifang.jpg" },
     { name: "Yunfei Li", grade: "Master Student", major: "Software Engineering", group: "Member of Vision", img: "yunfeili.png" },
     { name: "Yeqing Sun", grade: "B.S. Student", major: "Mechanical Engineering", group: "Member of Manipulation and Hardware", img: "yeqingsun.jpg" },
-    { name: "Yiru Liu", grade: "B.S. Student", major: "Automation", group: "Member of Manipulation", img: "yiruliu.jpeg" },
+    { name: "Yiru Law", grade: "B.S. Student", major: "Automation", group: "Member of Manipulation", img: "yiruliu.jpeg" },
     { name: "Han Ren", grade: "B.S. Student", major: "Mechanical Engineering", group: "Member of Navigation", img: "hanren.jpg" },
     { name: "Yuchiao Huang", grade: "B.S. Student", major: "Automation", group: "Member of Navigation", img: "yuchiaohuang.jpg" },  
     { name: "Zixu Wang", grade: "B.S. Student", major: "Automation", group: "Member of Manipulation and Vision", img: "zixuwang.jpg" } 
