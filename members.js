@@ -12,6 +12,7 @@ let students = [
     { name: "Han Ren", grade: "B.S. Student", major: "Mechanical Engineering", group: "Member of Navigation", img: "hanren.jpg" },
     { name: "Yuchiao Huang", grade: "B.S. Student", major: "Automation", group: "Member of Navigation", img: "yuchiaohuang.jpg" },  
     { name: "Zixu Wang", grade: "B.S. Student", major: "Automation", group: "Member of Manipulation and Vision", img: "zixuwang.jpg" } 
+    { name: "Yu'ang Yan", grade: "B.S. Student", major: "Mechanical Engineering", group: "Hardware", img: "yuangyan.jpg" },
 ];
 
 let past_members = [
@@ -23,7 +24,6 @@ let past_members = [
     { name: "Anqi Huang", grade: "B.S. Student", major: "Mechanical Engineering", group: "Navigation and Hardware", img: "anqihuang.jpg" },
     { name: "Chengjiang Li", grade: "B.S. Student", major: "Automation", group: "Manipulation", img: "chengjiangli.jpg" },
     { name: "Bing'ao Chen", grade: "B.S. Student", major: "Xingjian College - Aerospace Engineering", group: "Manipulation", img: "bingaochen.jpg" },
-    { name: "Yu'ang Yan", grade: "B.S. Student", major: "Mechanical Engineering", group: "Hardware", img: "yuangyan.jpg" },
     { name: "Sijia Xie", grade: "B.S. Student", major: "Mathematics and Applied Mathematics", group: "Vision", img: "sijiaxie.jpg" },
     { name: "Yimin Fang", grade: "B.S. Student", major: "Industrial Engineering", group: "Navigation", img: "yiminfang.jpg" },
     { name: "Ziwei Zhao", grade: "B.S. Student", major: "Automation", group: "Manipulation", img: "ziweizhao.jpg" },
