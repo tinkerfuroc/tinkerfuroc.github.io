@@ -1,8 +1,8 @@
 let students = [
     { name: "Kejin Wang(Team Leader)", grade: "B.S. Student", major: "Computer Science and Technology", group: "Head of Manipulation", img: "kejinwang.jpg" },
-    { name: "Yeqing Sun(President)", grade: "B.S. Student", major: "Mechanical Engineering", group: "Member of Manipulation and Hardware", img: "yeqingsun.jpg" },
-    { name: "Cindy Wang", grade: "B.S. Student", major: "Software Engineering", group: "Head of Vision and Member of Decision", img: "cindywang.jpg" },
-    { name: "Songchuan Lim", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Head of Hardware and Member of Decision", img: "songchuanlim.jpg" },
+    { name: "Yeqing Sun(President)", grade: "B.S. Student", major: "Mechanical Engineering", group: "Member of Manipulation Group and Hardware", img: "yeqingsun.jpg" },
+    { name: "Cindy Wang", grade: "B.S. Student", major: "Software Engineering", group: "Head of Vision Group and Member of Decision", img: "cindywang.jpg" },
+    { name: "Songchuan Lim", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Head of Hardware Group and Member of Decision", img: "songchuanlim.jpg" },
     { name: "Xinyao Qin", grade: "Ph.D. Student", major: "Automation", group: "Member of Manipulation", img: "xinyaoqin.jpg" },
     { name: "Mingkang Zhang", grade: "B.S. Student", major: "Weixian College", group: "Head of Navigation", img: "mingkangzhang.jpg" },
     { name: "Jiacheng Xie", grade: "B.S. Student", major: "Automation", group: "Head of Audio", img: "jiachengxie.jpg" },
